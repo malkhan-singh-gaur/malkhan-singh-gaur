@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malkhan-singh-gaur
 - 👀 I’m interested in Flutter and entrepreneurship
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on businesses
+<!-- - 💞️ I’m looking to collaborate on businesses -->
 - 📫 How to reach me +919569913800 whatsapp
 
 <!---
