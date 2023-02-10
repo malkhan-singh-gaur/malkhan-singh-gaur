@@ -8,3 +8,5 @@
 
 - 📫 How to reach me **malkhansingh95699@gmail.com**
 
+- I have worked on many projests like **Ecommerce app, Food ordering, employee management, Coaching management system, Social media app**
+
